@@ -1,5 +1,4 @@
 from tabela import tabela
-from temp import temporizador
 from niveis import niveis
 import os
 
