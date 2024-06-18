@@ -17,6 +17,10 @@ A game that features a timer and a choice of difficulty, resulting in a time lim
 ## Requirements
 
 - Python 3.x
+- prettytable
+- time
+- random
+- os
 
 ## Installation
 
